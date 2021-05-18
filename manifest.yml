@@ -1,0 +1,5 @@
+---
+applications:
+ - name: jf-api-lotes
+   random-route: true
+   memory: 128M
